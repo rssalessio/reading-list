@@ -1,6 +1,7 @@
 # reading-list
 
 ## Supervised learning
+* _[1998, LeCun]_ [Efficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
 * _[2021, Zhang]_ [Why flatness correlates with generalization for Deep NN](https://arxiv.org/pdf/2103.06219.pdf)
 
 
