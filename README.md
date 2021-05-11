@@ -14,5 +14,8 @@
 
 
 ## RL
-* _[2020, Feng]_ [Provably Efficient Exploration for Reinforcement Learning Using Unsupervised Learning](https://arxiv.org/pdf/2003.06898.pdf)
+* ### Papers
+  * _[2020, Feng]_ [Provably Efficient Exploration for Reinforcement Learning Using Unsupervised Learning](https://arxiv.org/pdf/2003.06898.pdf)
+* ### Lecture notes
+  * _[CS6789]_ [CS 6789: Foundations of Reinforcement Learning](https://wensun.github.io/CS6789.html)
 
