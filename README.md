@@ -5,8 +5,10 @@
 
 
 ## Deep RL
-* [Planning go explore via self-supervised world models](https://arxiv.org/pdf/2005.05960.pdf)
-* [#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning](https://arxiv.org/pdf/1611.04717.pdf)
+* ### Exploration papers
+  * [Unifying Count-Based Exploration and Intrinsic Motivation](https://arxiv.org/pdf/1606.01868.pdf)
+  * [Planning go explore via self-supervised world models](https://arxiv.org/pdf/2005.05960.pdf)
+  * [#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning](https://arxiv.org/pdf/1611.04717.pdf)
 
 
 ## RL
