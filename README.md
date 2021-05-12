@@ -10,6 +10,8 @@
   * _[2016, Bellemare]_ [Unifying Count-Based Exploration and Intrinsic Motivation](https://arxiv.org/pdf/1606.01868.pdf)
   * _[2017, Tang]_ [#Exploration: A Study of Count-Based Exploration for Deep Reinforcement](https://arxiv.org/pdf/1611.04717.pdf)
   * _[2020, Sekar]_ [Planning go explore via self-supervised world models](https://arxiv.org/pdf/2005.05960.pdf)
+* ### Algorithms
+  * [List of algorithms](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html)
 
 
 
