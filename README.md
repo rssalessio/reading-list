@@ -12,6 +12,7 @@
   * _[2020, Sekar]_ [Planning go explore via self-supervised world models](https://arxiv.org/pdf/2005.05960.pdf)
 * ### Algorithms
   * [List of algorithms](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html)
+  * [DQN Pop art](https://arxiv.org/pdf/1602.07714.pdf)
 
 
 
