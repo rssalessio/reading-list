@@ -23,3 +23,8 @@
 * ### Lecture notes
   * _[CS6789]_ [CS 6789: Foundations of Reinforcement Learning](https://wensun.github.io/CS6789.html)
 
+## Schools
+* https://www.math.unipd.it/~vargiolu/home/link.html
+* [School of mathematics](http://www.smi-math.unipr.it/perugia-2021/15/)
+* [Machine learning schools](https://github.com/sshkhr/awesome-mlss)
+* [Prairie summer school](https://project.inria.fr/paiss/)
