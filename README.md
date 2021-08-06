@@ -14,10 +14,10 @@
   * [List of algorithms](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html)
   * [DQN Pop art](https://arxiv.org/pdf/1602.07714.pdf)
 * ### DQN Convergence
-  * _[2020, A theoretic analysis of DQN]_(https://arxiv.org/pdf/1901.00137.pdf)
-  * _[2020, A Finite-Time Analysis of Q-Learning with Neural Network Function
+  * [2020, A theoretic analysis of DQN](https://arxiv.org/pdf/1901.00137.pdf)
+  * [2020, A Finite-Time Analysis of Q-Learning with Neural Network Function
 Approximation](http://proceedings.mlr.press/v119/xu20c/xu20c.pdf)
-  * _[2019, Towards Characterizing Divergence in Deep Q-Learning]_(https://arxiv.org/pdf/1903.08894.pdf)
+  * [2019, Towards Characterizing Divergence in Deep Q-Learning](https://arxiv.org/pdf/1903.08894.pdf)
 
 
 
