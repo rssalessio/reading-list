@@ -4,6 +4,7 @@
 * [2021, Why flatness correlates with generalization for Deep NN](https://arxiv.org/pdf/2103.06219.pdf)
 * [2021, The Modern Mathematics of Deep Learning](https://arxiv.org/pdf/2105.04026.pdf)
 * [2021, The Principles of Deep Learning Theory](https://arxiv.org/pdf/2106.10165.pdf)
+* [2020, Neural tangent kernel](https://arxiv.org/pdf/1806.07572.pdf)
 * [1998, LeCun, Efficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
 
 ## Differential geometry in deep learning
@@ -50,6 +51,12 @@ Spaces](https://proceedings.neurips.cc//paper/2020/file/9fa04f87c9138de23e92582b
   * [CS 6789: Foundations of Reinforcement Learning](https://wensun.github.io/CS6789.html)
   * [RL Book Theory](https://rltheorybook.github.io/)
   * [Reinforcement Learning: an introduction](http://incompleteideas.net/book/the-book.html)
+## Bandit algorithms
+* ### Papers
+  * [2020, Neural Contextual Bandits with Deep Representation
+and Shallow Exploration](https://arxiv.org/pdf/2012.01780.pdf)
+  * [2020, Neural Contextual Bandits with UCB-based Exploration](https://arxiv.org/pdf/1911.04462.pdf)
+  * 
 
 ## Schools
 * https://www.math.unipd.it/~vargiolu/home/link.html
