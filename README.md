@@ -66,6 +66,9 @@ and Shallow Exploration](https://arxiv.org/pdf/2012.01780.pdf)
   * [2020, Neural Contextual Bandits with UCB-based Exploration](https://arxiv.org/pdf/1911.04462.pdf)
  
 
+## Min-max optimization
+  * [2020, Non-convex Min-Max Optimization: Applications, Challenges, and Recent Theoretical Advances](https://arxiv.org/pdf/2006.08141.pdf)
+
 ## Schools
 * https://www.math.unipd.it/~vargiolu/home/link.html
 * [School of mathematics](http://www.smi-math.unipr.it/perugia-2021/15/)
