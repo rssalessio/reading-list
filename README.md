@@ -23,7 +23,6 @@ with Gaussian and Student-t Distributions: Tutorial and Survey](https://arxiv.or
 * [2015, Parametric nonlinear dimensionality
 reduction using kernel t-SNE](https://core.ac.uk/download/pdf/20074835.pdf)
 * [2009, Learning a Parametric Embedding by Preserving Local Structure](http://proceedings.mlr.press/v5/maaten09a/maaten09a.pdf)
-* 
 
 ## Deep Reinforcement Learning
 * ### Algorithms
@@ -54,6 +53,7 @@ Function Approximation](https://arxiv.org/pdf/1907.05388.pdf)
   * [On Function Approximation in Reinforcement
 Learning: Optimism in the Face of Large State
 Spaces](https://proceedings.neurips.cc//paper/2020/file/9fa04f87c9138de23e92582b4ce549ec-Paper.pdf)
+  * [2009, An Analysis of Reinforcement Learning with Function Approximation](http://icml2008.cs.helsinki.fi/papers/652.pdf)
 
 * ### Lecture notes and books
   * [CS 6789: Foundations of Reinforcement Learning](https://wensun.github.io/CS6789.html)
@@ -64,7 +64,7 @@ Spaces](https://proceedings.neurips.cc//paper/2020/file/9fa04f87c9138de23e92582b
   * [2020, Neural Contextual Bandits with Deep Representation
 and Shallow Exploration](https://arxiv.org/pdf/2012.01780.pdf)
   * [2020, Neural Contextual Bandits with UCB-based Exploration](https://arxiv.org/pdf/1911.04462.pdf)
-  * 
+ 
 
 ## Schools
 * https://www.math.unipd.it/~vargiolu/home/link.html
