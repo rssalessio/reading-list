@@ -17,6 +17,14 @@ Functions on Low Dimensional Manifolds](https://proceedings.neurips.cc/paper/201
 Functions on Low Dimensional Manifolds](https://proceedings.neurips.cc/paper/2019/file/fd95ec8df5dbeea25aa8e6c808bad583-Paper.pdf)
 * [2016, Deep nets for local manifold learning](https://arxiv.org/pdf/1607.07110.pdf)
 
+## Dimensionality reduction
+* [2020, Stochastic Neighbor Embedding
+with Gaussian and Student-t Distributions: Tutorial and Survey](https://arxiv.org/pdf/2009.10301.pdf)
+* [2015, Parametric nonlinear dimensionality
+reduction using kernel t-SNE](https://core.ac.uk/download/pdf/20074835.pdf)
+* [2009, Learning a Parametric Embedding by Preserving Local Structure](http://proceedings.mlr.press/v5/maaten09a/maaten09a.pdf)
+* 
+
 ## Deep Reinforcement Learning
 * ### Algorithms
   * [List of algorithms](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html)
