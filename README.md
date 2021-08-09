@@ -5,6 +5,7 @@
 * [2021, The Modern Mathematics of Deep Learning](https://arxiv.org/pdf/2105.04026.pdf)
 * [2021, The Principles of Deep Learning Theory](https://arxiv.org/pdf/2106.10165.pdf)
 * [2020, Neural tangent kernel](https://arxiv.org/pdf/1806.07572.pdf)
+* [2018, Lipschitz regularity of deep neural networks: analysis and efficient estimation](https://papers.nips.cc/paper/2018/file/d54e99a6c03704e95e6965532dec148b-Paper.pdf)
 * [1998, LeCun, Efficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
 
 ## Differential geometry in deep learning
@@ -43,6 +44,9 @@ Approximation](http://proceedings.mlr.press/v119/xu20c/xu20c.pdf)
   * [2020, Planning go explore via self-supervised world models](https://arxiv.org/pdf/2005.05960.pdf)
   * [2017, #Exploration: A Study of Count-Based Exploration for Deep Reinforcement](https://arxiv.org/pdf/1611.04717.pdf)
   * [2016, Unifying Count-Based Exploration and Intrinsic Motivation](https://arxiv.org/pdf/1606.01868.pdf)
+* ### Stability
+  * [2021, Enforcing Robust Control Guarantees with neural network polciies](https://arxiv.org/pdf/2011.08105.pdf)
+  * [2018, Control-Theoretic Analysis of Smoothness for Stability-Certified Reinforcement Learning](https://lavaei.ieor.berkeley.edu/RL_1_2018.pdf)
 
 ## Reinforcement Learning
 * ### Papers
@@ -64,7 +68,11 @@ Spaces](https://proceedings.neurips.cc//paper/2020/file/9fa04f87c9138de23e92582b
   * [2020, Neural Contextual Bandits with Deep Representation
 and Shallow Exploration](https://arxiv.org/pdf/2012.01780.pdf)
   * [2020, Neural Contextual Bandits with UCB-based Exploration](https://arxiv.org/pdf/1911.04462.pdf)
- 
+
+## Lecture notes and slides
+  * [2015, Rademacher complexities and VC Dimension](http://www.cs.cmu.edu/~hanxiaol/slides/rademacher_vc_hanxiaol.pdf)
+  * [2013, An introduction to stochastic approximation](http://rcombes.supelec.free.fr/pdf/lecture_stoch_approx.pdf)
+  * [2006, System identification and the limits of learning from data](https://marco-campi.unibs.it/pdf-pszip/sys-id-and-limits-learning.pdf)
 
 ## Min-max optimization
   * [2020, Non-convex Min-Max Optimization: Applications, Challenges, and Recent Theoretical Advances](https://arxiv.org/pdf/2006.08141.pdf)
