@@ -58,6 +58,7 @@ Function Approximation](https://arxiv.org/pdf/1907.05388.pdf)
 Learning: Optimism in the Face of Large State
 Spaces](https://proceedings.neurips.cc//paper/2020/file/9fa04f87c9138de23e92582b4ce549ec-Paper.pdf)
   * [2009, An Analysis of Reinforcement Learning with Function Approximation](http://icml2008.cs.helsinki.fi/papers/652.pdf)
+  * [1992, Reinforcement learning applied to linear quadratic regulation](https://papers.nips.cc/paper/1992/file/19bc916108fc6938f52cb96f7e087941-Paper.pdf)
 
 * ### Lecture notes and books
   * [CS 6789: Foundations of Reinforcement Learning](https://wensun.github.io/CS6789.html)
