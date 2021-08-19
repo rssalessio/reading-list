@@ -1,6 +1,7 @@
 # reading-list
 
 ## General deep learning
+* [2021, Loss landscapes and optimization in over-parameterized non-linear systems and neural networks](https://arxiv.org/pdf/2003.00307.pdf)
 * [2021, Why flatness correlates with generalization for Deep NN](https://arxiv.org/pdf/2103.06219.pdf)
 * [2021, The Modern Mathematics of Deep Learning](https://arxiv.org/pdf/2105.04026.pdf)
 * [2021, The Principles of Deep Learning Theory](https://arxiv.org/pdf/2106.10165.pdf)
