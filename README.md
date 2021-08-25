@@ -48,6 +48,11 @@ Approximation](http://proceedings.mlr.press/v119/xu20c/xu20c.pdf)
 * ### Stability
   * [2021, Enforcing Robust Control Guarantees with neural network polciies](https://arxiv.org/pdf/2011.08105.pdf)
   * [2018, Control-Theoretic Analysis of Smoothness for Stability-Certified Reinforcement Learning](https://lavaei.ieor.berkeley.edu/RL_1_2018.pdf)
+* ### Dreamer algorithm
+  * [2021, Mastering Atari with discrete world-models](https://arxiv.org/pdf/2010.02193.pdf)
+  * [2020, Dream to control](https://arxiv.org/pdf/1912.01603.pdf)  
+  * [2020, Planning to explore via supervised world-models](https://arxiv.org/pdf/2005.05960.pdf)
+  * [2019, Learning latent dynamics from pixels](Learning Latent Dynamics for Planning from Pixels)
 
 ## Reinforcement Learning
 * ### Papers
