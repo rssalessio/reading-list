@@ -82,7 +82,13 @@ and Shallow Exploration](https://arxiv.org/pdf/2012.01780.pdf)
   * [2006, System identification and the limits of learning from data](https://marco-campi.unibs.it/pdf-pszip/sys-id-and-limits-learning.pdf)
 
 ## Min-max optimization
+  * [2021, A mean-field analysis of two-player zero-sum games](https://arxiv.org/pdf/2002.06277.pdf)
+  * [2021, The Limits of Min-Max Optimization Algorithms: Convergence to Spurious Non-Critical Sets](http://proceedings.mlr.press/v139/hsieh21a/hsieh21a-supp.pdf)
+  * [2020, On the Convergence of Single-Call Stochastic Extra-Gradient Methods](https://arxiv.org/pdf/1908.08465.pdf)
   * [2020, Non-convex Min-Max Optimization: Applications, Challenges, and Recent Theoretical Advances](https://arxiv.org/pdf/2006.08141.pdf)
+  * [2020, On Gradient Descent Ascent for Nonconvex-Concave Minimax Problems](http://proceedings.mlr.press/v119/lin20a/lin20a.pdf)
+  * [2020, Robust Reinforcement Learning via Adversarial training with Langevin Dynamics](https://arxiv.org/pdf/2002.06063.pdf)
+  * [2018, Finding Mixed Nash Equilibria of Generative Adversarial Networks](https://arxiv.org/pdf/1811.02002.pdf)
 
 ## Schools
 * https://www.math.unipd.it/~vargiolu/home/link.html
