@@ -65,6 +65,9 @@ Learning: Optimism in the Face of Large State
 Spaces](https://proceedings.neurips.cc//paper/2020/file/9fa04f87c9138de23e92582b4ce549ec-Paper.pdf)
   * [2009, An Analysis of Reinforcement Learning with Function Approximation](http://icml2008.cs.helsinki.fi/papers/652.pdf)
   * [1992, Reinforcement learning applied to linear quadratic regulation](https://papers.nips.cc/paper/1992/file/19bc916108fc6938f52cb96f7e087941-Paper.pdf)
+* ### Constrained RL
+  * [2017, Constrained Policy Optimization](https://arxiv.org/pdf/1705.10528.pdf)
+  * [2017, Risk-Constrained Reinforcement Learning with Percentile Risk Criteria](https://arxiv.org/pdf/1512.01629.pdf)
 
 * ### Lecture notes and books
   * [CS 6789: Foundations of Reinforcement Learning](https://wensun.github.io/CS6789.html)
