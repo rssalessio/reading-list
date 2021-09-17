@@ -1,12 +1,15 @@
 # reading-list
 
 ## General deep learning
+* [2021, Slot Machines: Discovering Winning Combinations of Random Weights in Neural Networks](https://arxiv.org/pdf/2101.06475.pdf)
+* 
 * [2021, Loss landscapes and optimization in over-parameterized non-linear systems and neural networks](https://arxiv.org/pdf/2003.00307.pdf)
 * [2021, Why flatness correlates with generalization for Deep NN](https://arxiv.org/pdf/2103.06219.pdf)
 * [2021, The Modern Mathematics of Deep Learning](https://arxiv.org/pdf/2105.04026.pdf)
 * [2021, The Principles of Deep Learning Theory](https://arxiv.org/pdf/2106.10165.pdf)
 * [2020, Neural tangent kernel](https://arxiv.org/pdf/1806.07572.pdf)
 * [2018, Lipschitz regularity of deep neural networks: analysis and efficient estimation](https://papers.nips.cc/paper/2018/file/d54e99a6c03704e95e6965532dec148b-Paper.pdf)
+* [2015, Weight Uncertainty in Neural Networks](https://arxiv.org/pdf/1505.05424.pdf)
 * [1998, LeCun, Efficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
 
 ## Differential geometry in deep learning
@@ -25,6 +28,11 @@ with Gaussian and Student-t Distributions: Tutorial and Survey](https://arxiv.or
 * [2015, Parametric nonlinear dimensionality
 reduction using kernel t-SNE](https://core.ac.uk/download/pdf/20074835.pdf)
 * [2009, Learning a Parametric Embedding by Preserving Local Structure](http://proceedings.mlr.press/v5/maaten09a/maaten09a.pdf)
+
+## Thompson sampling
+* [2020, Neural Thompson Sampling](https://arxiv.org/pdf/2010.00827.pdf)
+* [2018, Deep Contextual Multi-armed Bandits](https://arxiv.org/pdf/1807.09809.pdf)
+* 
 
 ## Deep Reinforcement Learning
 * ### Algorithms
@@ -52,7 +60,7 @@ Approximation](http://proceedings.mlr.press/v119/xu20c/xu20c.pdf)
   * [2021, Mastering Atari with discrete world-models](https://arxiv.org/pdf/2010.02193.pdf)
   * [2020, Dream to control](https://arxiv.org/pdf/1912.01603.pdf)  
   * [2020, Planning to explore via supervised world-models](https://arxiv.org/pdf/2005.05960.pdf)
-  * [2019, Learning latent dynamics from pixels](Learning Latent Dynamics for Planning from Pixels)
+  * [2019, Learning latent dynamics from pixels](https://arxiv.org/pdf/1811.04551.pdf)
 
 ## Reinforcement Learning
 * ### Papers
