@@ -1,6 +1,7 @@
 # reading-list
 
 ## General deep learning
+* [2021, Distilling Robust and Non-Robust Features in Adversarial Examples by Information Bottleneck](https://openreview.net/pdf?id=90M-91IZ0JC)
 * [2021, Slot Machines: Discovering Winning Combinations of Random Weights in Neural Networks](https://arxiv.org/pdf/2101.06475.pdf)
 * [2021, Loss landscapes and optimization in over-parameterized non-linear systems and neural networks](https://arxiv.org/pdf/2003.00307.pdf)
 * [2021, Why flatness correlates with generalization for Deep NN](https://arxiv.org/pdf/2103.06219.pdf)
@@ -60,6 +61,8 @@ Approximation](http://proceedings.mlr.press/v119/xu20c/xu20c.pdf)
   * [2020, Dream to control](https://arxiv.org/pdf/1912.01603.pdf)  
   * [2020, Planning to explore via supervised world-models](https://arxiv.org/pdf/2005.05960.pdf)
   * [2019, Learning latent dynamics from pixels](https://arxiv.org/pdf/1811.04551.pdf)
+* ### Goal conditioned RL
+  * [2021, Adversarial Intrinsic Motivation for Reinforcement learning](https://openreview.net/pdf?id=GYr3qnFKgU)
 
 ## Reinforcement Learning
 * ### Papers
