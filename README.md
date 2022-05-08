@@ -66,6 +66,7 @@ Approximation](http://proceedings.mlr.press/v119/xu20c/xu20c.pdf)
 
 ## Reinforcement Learning
 * ### Papers
+  * [2021, Adaptive Sampling for Best Policy Identification in MDPs](http://proceedings.mlr.press/v139/marjani21a/marjani21a.pdf)
   * [2020, Provably Efficient Exploration for Reinforcement Learning Using Unsupervised Learning](https://arxiv.org/pdf/2003.06898.pdf)
   * [2019, Provably Efficient Reinforcement Learning with Linear
 Function Approximation](https://arxiv.org/pdf/1907.05388.pdf)
@@ -73,8 +74,12 @@ Function Approximation](https://arxiv.org/pdf/1907.05388.pdf)
   * [On Function Approximation in Reinforcement
 Learning: Optimism in the Face of Large State
 Spaces](https://proceedings.neurips.cc//paper/2020/file/9fa04f87c9138de23e92582b4ce549ec-Paper.pdf)
+  * [2016, Learning the Variance of the Reward-To-Go](https://jmlr.org/papers/volume17/14-335/14-335.pdf)
   * [2009, An Analysis of Reinforcement Learning with Function Approximation](http://icml2008.cs.helsinki.fi/papers/652.pdf)
+  * [2004, Bias and Variance in Value Function Estimation](https://icml.cc/Conferences/2004/proceedings/papers/248.pdf)
+  * [2001, TD Algorithm for the Variance of Return and Mean-Variance Reinforcement Learning](https://www.jstage.jst.go.jp/article/tjsai/16/3/16_3_353/_pdf)
   * [1992, Reinforcement learning applied to linear quadratic regulation](https://papers.nips.cc/paper/1992/file/19bc916108fc6938f52cb96f7e087941-Paper.pdf)
+  * [1982,The Variance of Discounted Markov Decision Processes](https://www.jstor.org/stable/3213832)
 * ### Constrained RL
   * [2017, Constrained Policy Optimization](https://arxiv.org/pdf/1705.10528.pdf)
   * [2017, Risk-Constrained Reinforcement Learning with Percentile Risk Criteria](https://arxiv.org/pdf/1512.01629.pdf)
