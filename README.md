@@ -1,5 +1,8 @@
 # reading-list
 
+This is a NOT up-to-date collection of interesting papers that I have read so far (or that I want to read).
+
+
 ## General deep learning
 * [2021, Distilling Robust and Non-Robust Features in Adversarial Examples by Information Bottleneck](https://openreview.net/pdf?id=90M-91IZ0JC)
 * [2021, Slot Machines: Discovering Winning Combinations of Random Weights in Neural Networks](https://arxiv.org/pdf/2101.06475.pdf)
