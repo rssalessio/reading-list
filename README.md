@@ -35,6 +35,8 @@ reduction using kernel t-SNE](https://core.ac.uk/download/pdf/20074835.pdf)
 * 
 
 ## Deep Reinforcement Learning
+* ### Famous applications
+  * [2022, CICERO](https://www.science.org/doi/10.1126/science.ade9097)
 * ### Algorithms
   * [List of algorithms](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html)
   * [DQN Pop art](https://arxiv.org/pdf/1602.07714.pdf)
