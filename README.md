@@ -58,6 +58,7 @@ Approximation](http://proceedings.mlr.press/v119/xu20c/xu20c.pdf)
   * [2020, Planning go explore via self-supervised world models](https://arxiv.org/pdf/2005.05960.pdf)
   * [2017, #Exploration: A Study of Count-Based Exploration for Deep Reinforcement](https://arxiv.org/pdf/1611.04717.pdf)
   * [2016, Unifying Count-Based Exploration and Intrinsic Motivation](https://arxiv.org/pdf/1606.01868.pdf)
+  * [2022, Exploring through Random Curiosity with General Value Functions](https://arxiv.org/pdf/2211.10282.pdf)
 * ### Stability
   * [2021, Enforcing Robust Control Guarantees with neural network polciies](https://arxiv.org/pdf/2011.08105.pdf)
   * [2018, Control-Theoretic Analysis of Smoothness for Stability-Certified Reinforcement Learning](https://lavaei.ieor.berkeley.edu/RL_1_2018.pdf)
@@ -88,6 +89,7 @@ Spaces](https://proceedings.neurips.cc//paper/2020/file/9fa04f87c9138de23e92582b
 * ### Constrained RL
   * [2017, Constrained Policy Optimization](https://arxiv.org/pdf/1705.10528.pdf)
   * [2017, Risk-Constrained Reinforcement Learning with Percentile Risk Criteria](https://arxiv.org/pdf/1512.01629.pdf)
+  * [2008, An analysis of model-based Interval Estimation for Markov Decision Processes](https://www.sciencedirect.com/science/article/pii/S0022000008000767)
 
 * ### Lecture notes and books
   * [CS 6789: Foundations of Reinforcement Learning](https://wensun.github.io/CS6789.html)
