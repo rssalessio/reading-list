@@ -72,6 +72,7 @@ Approximation](http://proceedings.mlr.press/v119/xu20c/xu20c.pdf)
 
 ## Reinforcement Learning
 * ### Papers
+  * [2022, Understanding Policy Gradient Algorithms: A Sensitivity-Based Approach](https://proceedings.mlr.press/v162/wu22i/wu22i.pdf)
   * [2021, Adaptive Sampling for Best Policy Identification in MDPs](http://proceedings.mlr.press/v139/marjani21a/marjani21a.pdf)
   * [2020, Provably Efficient Exploration for Reinforcement Learning Using Unsupervised Learning](https://arxiv.org/pdf/2003.06898.pdf)
   * [2019, Provably Efficient Reinforcement Learning with Linear
