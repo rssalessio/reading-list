@@ -72,19 +72,28 @@ Approximation](http://proceedings.mlr.press/v119/xu20c/xu20c.pdf)
 
 ## Reinforcement Learning
 * ### Papers
+  * [2023, An Analysis of Quantile Temporal-Difference Learning](https://arxiv.org/pdf/2301.04462.pdf)
   * [2022, Understanding Policy Gradient Algorithms: A Sensitivity-Based Approach](https://proceedings.mlr.press/v162/wu22i/wu22i.pdf)
+  * [2021, Sample Complexity of Asynchronous Q-Learning: Sharper Analysis and Variance Reduction](https://arxiv.org/pdf/2006.03041.pdf)
   * [2021, Adaptive Sampling for Best Policy Identification in MDPs](http://proceedings.mlr.press/v139/marjani21a/marjani21a.pdf)
   * [2020, Provably Efficient Exploration for Reinforcement Learning Using Unsupervised Learning](https://arxiv.org/pdf/2003.06898.pdf)
+  * [2019, Revisiting the Softmax Bellman Operator: New Benefits and New Perspective](https://arxiv.org/pdf/1812.00456.pdf)
+  * [2019, Q-learning with UCB Exploration is Sample Efficient for Infinite-Horizon MDP](https://arxiv.org/pdf/1901.09311.pdf)
   * [2019, Provably Efficient Reinforcement Learning with Linear
 Function Approximation](https://arxiv.org/pdf/1907.05388.pdf)
+  * [2018, Is Q-learning Provably Efficient?](https://arxiv.org/pdf/1807.03765.pdf)
   * [Adaptive sampling for policy identification](https://arxiv.org/pdf/2009.13405.pdf)
   * [On Function Approximation in Reinforcement
 Learning: Optimism in the Face of Large State
 Spaces](https://proceedings.neurips.cc//paper/2020/file/9fa04f87c9138de23e92582b4ce549ec-Paper.pdf)
   * [2016, Learning the Variance of the Reward-To-Go](https://jmlr.org/papers/volume17/14-335/14-335.pdf)
   * [2009, An Analysis of Reinforcement Learning with Function Approximation](http://icml2008.cs.helsinki.fi/papers/652.pdf)
+  * [2006, PAC Model-Free Reinforcement Learning](https://cseweb.ucsd.edu/~ewiewior/06efficient.pdf)
   * [2004, Bias and Variance in Value Function Estimation](https://icml.cc/Conferences/2004/proceedings/papers/248.pdf)
+  * [2001, Convergence of Optimistic and Incremental Q-Learning](https://proceedings.neurips.cc/paper/2001/file/6f2688a5fce7d48c8d19762b88c32c3b-Paper.pdf)
   * [2001, TD Algorithm for the Variance of Return and Mean-Variance Reinforcement Learning](https://www.jstage.jst.go.jp/article/tjsai/16/3/16_3_353/_pdf)
+  * [2000, Convergence Results for Single-Step On-Policy Reinforcement-Learning Algorithms](https://link.springer.com/content/pdf/10.1023/A:1007678930559.pdf)
+  * [1993, Convergence of Stochastic Iterative Dynamic Programming Algorithms](https://proceedings.neurips.cc/paper/1993/file/5807a685d1a9ab3b599035bc566ce2b9-Paper.pdf)
   * [1992, Reinforcement learning applied to linear quadratic regulation](https://papers.nips.cc/paper/1992/file/19bc916108fc6938f52cb96f7e087941-Paper.pdf)
   * [1982,The Variance of Discounted Markov Decision Processes](https://www.jstor.org/stable/3213832)
 * ### Constrained RL
@@ -93,6 +102,7 @@ Spaces](https://proceedings.neurips.cc//paper/2020/file/9fa04f87c9138de23e92582b
   * [2008, An analysis of model-based Interval Estimation for Markov Decision Processes](https://www.sciencedirect.com/science/article/pii/S0022000008000767)
 
 * ### Lecture notes and books
+  * [Regularization in RL, Google, 2021](https://rl-vs.github.io/rlvs2021/class-material/regularized_mdp/Regularization_RL_RLVS.pdf)
   * [CS 6789: Foundations of Reinforcement Learning](https://wensun.github.io/CS6789.html)
   * [RL Book Theory](https://rltheorybook.github.io/)
   * [Reinforcement Learning: an introduction](http://incompleteideas.net/book/the-book.html)
@@ -121,3 +131,12 @@ and Shallow Exploration](https://arxiv.org/pdf/2012.01780.pdf)
 * [School of mathematics](http://www.smi-math.unipr.it/perugia-2021/15/)
 * [Machine learning schools](https://github.com/sshkhr/awesome-mlss)
 * [Prairie summer school](https://project.inria.fr/paiss/)
+
+
+
+
+
+Papers to add
+
+Deep Bandits Show-Off: Simple and Efficient Exploration with Deep Networks
+https://proceedings.neurips.cc/paper/2016/file/abd815286ba1007abfbb8415b83ae2cf-Paper.pdf
