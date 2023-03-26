@@ -15,6 +15,11 @@ This is a NOT up-to-date collection of interesting papers that I have read so fa
 * [2015, Weight Uncertainty in Neural Networks](https://arxiv.org/pdf/1505.05424.pdf)
 * [1998, LeCun, Efficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
 
+## Conformal prediction
+* [2022, Conformal Off-Policy Prediction in Contextual Bandits](https://arxiv.org/pdf/2206.04405.pdf)
+* [2020, Conformal Prediction Under Covariate Shift](https://arxiv.org/pdf/1904.06019.pdf)
+* [2019, Conformalized Quantile Regression](https://proceedings.neurips.cc/paper/2019/file/5103c3584b063c431bd1268e9b5e76fb-Paper.pdf)
+
 ## Differential geometry in deep learning
 * [2020, Neural Ordinary Differential Equations on Manifolds](https://arxiv.org/pdf/2006.06663.pdf)
 * [2019, Efficient Approximation of Deep ReLU Networks for
@@ -100,6 +105,14 @@ Spaces](https://proceedings.neurips.cc//paper/2020/file/9fa04f87c9138de23e92582b
   * [2017, Constrained Policy Optimization](https://arxiv.org/pdf/1705.10528.pdf)
   * [2017, Risk-Constrained Reinforcement Learning with Percentile Risk Criteria](https://arxiv.org/pdf/1512.01629.pdf)
   * [2008, An analysis of model-based Interval Estimation for Markov Decision Processes](https://www.sciencedirect.com/science/article/pii/S0022000008000767)
+* ### Off policy evaluation
+  * [2022, A Review of Off-Policy Evaluation in Reinforcement Learning](https://arxiv.org/pdf/2212.06355.pdf)
+  * [2022, Conformal Off-Policy Prediction in Contextual Bandits](https://arxiv.org/pdf/2206.04405.pdf)
+  * [2020, CoinDICE: Off-Policy Confidence Interval Estimation](https://arxiv.org/pdf/2010.11652.pdf)
+  * [2018, Breaking the Curse of Horizon: Infinite-Horizon Off-Policy Estimation](https://arxiv.org/pdf/1810.12429.pdf)
+  * [2015, High Confidence Policy Improvement](https://people.cs.umass.edu/~pthomas/papers/Thomas2015b.pdf)
+  * [2015, High Confidence Off-Policy Evaluation](https://people.cs.umass.edu/~pthomas/papers/Thomas2015.pdf)
+  * [2000, Eligibility Traces for Off-Policy Policy Evaluation](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1079&context=cs_faculty_pubs)
 
 * ### Lecture notes and books
   * [Regularization in RL, Google, 2021](https://rl-vs.github.io/rlvs2021/class-material/regularized_mdp/Regularization_RL_RLVS.pdf)
@@ -108,6 +121,7 @@ Spaces](https://proceedings.neurips.cc//paper/2020/file/9fa04f87c9138de23e92582b
   * [Reinforcement Learning: an introduction](http://incompleteideas.net/book/the-book.html)
 ## Bandit algorithms
 * ### Papers
+  * [2023, Quantile Bandits for Best Arms Identification](https://arxiv.org/pdf/2010.11568.pdf)
   * [2020, Neural Contextual Bandits with Deep Representation
 and Shallow Exploration](https://arxiv.org/pdf/2012.01780.pdf)
   * [2020, Neural Contextual Bandits with UCB-based Exploration](https://arxiv.org/pdf/1911.04462.pdf)
@@ -125,6 +139,13 @@ and Shallow Exploration](https://arxiv.org/pdf/2012.01780.pdf)
   * [2020, On Gradient Descent Ascent for Nonconvex-Concave Minimax Problems](http://proceedings.mlr.press/v119/lin20a/lin20a.pdf)
   * [2020, Robust Reinforcement Learning via Adversarial training with Langevin Dynamics](https://arxiv.org/pdf/2002.06063.pdf)
   * [2018, Finding Mixed Nash Equilibria of Generative Adversarial Networks](https://arxiv.org/pdf/1811.02002.pdf)
+
+## Statistics
+  * [2020, A Tutorial on Quantile Estimation via Monte Carlo](https://web.njit.edu/~marvin/papers/qtut-r2.pdf)
+  * [2012, CONCENTRATION INEQUALITIES FOR ORDER STATISTICS](https://arxiv.org/pdf/1207.7209.pdf)
+  * [1996, IMPORTANCE SAMPLING FOR MONTE CARLO ESTIMATION OF QUANTILES](https://web.stanford.edu/~glynn/papers/1996/G96.pdf)
+  * [1987, Better Bootstrap Confidence Intervals](https://www.jstor.org/stable/2289144)
+
 
 ## Schools
 * https://www.math.unipd.it/~vargiolu/home/link.html
