@@ -1,9 +1,26 @@
 # reading-list
 
-This is a NOT up-to-date collection of interesting papers that I have read so far (or that I want to read).
+This is a collection of interesting papers that I have read so far or want to read. Note that the list is not up-to-date.
 
 
-## General deep learning
+## Table of Contents
+1. [General Deep Learning](#general-deep-learning)
+2. [Conformal Prediction](#conformal-prediction)
+3. [Differential Geometry in Deep Learning](#differential-geometry-in-deep-learning)
+4. [Dimensionality Reduction](#dimensionality-reduction)
+5. [Thompson Sampling](#thompson-sampling)
+6. [Deep Reinforcement Learning](#deep-reinforcement-learning)
+7. [Reinforcement Learning](#reinforcement-learning)
+8. [Bandit algorithms](#bandit-algorithms)
+9. [Optimization](#optimization)
+10. [Statistics](#statistics)
+11. [Books, courses and lecture notes](#books)
+12. [Blogs and tutorial](#blogs)
+13. [Schools](#schools)
+
+
+<a name="general-deep-learning"></a>
+## 1. General deep learning
 * [2021, Distilling Robust and Non-Robust Features in Adversarial Examples by Information Bottleneck](https://openreview.net/pdf?id=90M-91IZ0JC)
 * [2021, Slot Machines: Discovering Winning Combinations of Random Weights in Neural Networks](https://arxiv.org/pdf/2101.06475.pdf)
 * [2021, Loss landscapes and optimization in over-parameterized non-linear systems and neural networks](https://arxiv.org/pdf/2003.00307.pdf)
@@ -14,15 +31,17 @@ This is a NOT up-to-date collection of interesting papers that I have read so fa
 * [2018, Lipschitz regularity of deep neural networks: analysis and efficient estimation](https://papers.nips.cc/paper/2018/file/d54e99a6c03704e95e6965532dec148b-Paper.pdf)
 * [2015, Weight Uncertainty in Neural Networks](https://arxiv.org/pdf/1505.05424.pdf)
 * [1998, LeCun, Efficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
-
-## Conformal prediction
+  
+<a name="conformal-prediction"></a>
+## 2. Conformal prediction
 * [2022, Conformal Prediction: a Unified Reviewof Theory and New Challenges](https://arxiv.org/pdf/2005.07972.pdf)
 * [2022, Conformal Off-Policy Prediction in Contextual Bandits](https://arxiv.org/pdf/2206.04405.pdf)
 * [2020, Conformal Prediction Under Covariate Shift](https://arxiv.org/pdf/1904.06019.pdf)
 * [2019, Conformalized Quantile Regression](https://proceedings.neurips.cc/paper/2019/file/5103c3584b063c431bd1268e9b5e76fb-Paper.pdf)
 * [2005, Algorithmic Learning in a Random World](https://link.springer.com/book/10.1007/b106715)
 
-## Differential geometry in deep learning
+<a name="differential-geometry-in-deep-learning"></a>
+## 3. Differential geometry in deep learning
 * [2020, Neural Ordinary Differential Equations on Manifolds](https://arxiv.org/pdf/2006.06663.pdf)
 * [2019, Efficient Approximation of Deep ReLU Networks for
 Functions on Low Dimensional Manifolds](https://proceedings.neurips.cc/paper/2019/file/fd95ec8df5dbeea25aa8e6c808bad583-Paper.pdf)
@@ -32,19 +51,23 @@ Functions on Low Dimensional Manifolds](https://proceedings.neurips.cc/paper/201
 Functions on Low Dimensional Manifolds](https://proceedings.neurips.cc/paper/2019/file/fd95ec8df5dbeea25aa8e6c808bad583-Paper.pdf)
 * [2016, Deep nets for local manifold learning](https://arxiv.org/pdf/1607.07110.pdf)
 
-## Dimensionality reduction
+<a name="dimensionality-reduction"></a>
+## 4. Dimensionality reduction
 * [2020, Stochastic Neighbor Embedding
 with Gaussian and Student-t Distributions: Tutorial and Survey](https://arxiv.org/pdf/2009.10301.pdf)
 * [2015, Parametric nonlinear dimensionality
 reduction using kernel t-SNE](https://core.ac.uk/download/pdf/20074835.pdf)
 * [2009, Learning a Parametric Embedding by Preserving Local Structure](http://proceedings.mlr.press/v5/maaten09a/maaten09a.pdf)
 
-## Thompson sampling
+<a name="thompson-sampling"></a>
+## 5. Thompson sampling
+* [2020, A Tutorial on Thompson Sampling](https://arxiv.org/pdf/1707.02038.pdf)
 * [2020, Neural Thompson Sampling](https://arxiv.org/pdf/2010.00827.pdf)
 * [2018, Deep Contextual Multi-armed Bandits](https://arxiv.org/pdf/1807.09809.pdf)
-* 
 
-## Deep Reinforcement Learning
+
+<a name="deep-reinforcement-learning"></a>
+## 6. Deep Reinforcement Learning
 * ### Famous applications
   * [2022, CICERO](https://www.science.org/doi/10.1126/science.ade9097)
 * ### Algorithms
@@ -80,7 +103,8 @@ Approximation](http://proceedings.mlr.press/v119/xu20c/xu20c.pdf)
   * [2019, Statistics and Samples in Distributional Reinforcement Learning](https://arxiv.org/pdf/1902.08102.pdf)
   * [2018, DISTRIBUTED DISTRIBUTIONAL DETERMINISTIC POLICY GRADIENTS](https://arxiv.org/pdf/1804.08617.pdf)
 
-## Reinforcement Learning
+<a name="reinforcement-learning"></a>
+## 7. Reinforcement Learning
 * ### Papers
   * [2023, An Analysis of Quantile Temporal-Difference Learning](https://arxiv.org/pdf/2301.04462.pdf)
   * [2022, Understanding Policy Gradient Algorithms: A Sensitivity-Based Approach](https://proceedings.mlr.press/v162/wu22i/wu22i.pdf)
@@ -129,14 +153,9 @@ Spaces](https://proceedings.neurips.cc//paper/2020/file/9fa04f87c9138de23e92582b
   * [2015, High Confidence Off-Policy Evaluation](https://people.cs.umass.edu/~pthomas/papers/Thomas2015.pdf)
   * [2000, Eligibility Traces for Off-Policy Policy Evaluation](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1079&context=cs_faculty_pubs)
 
-* ### Lecture notes and books
-  * [Regularization in RL, Google, 2021](https://rl-vs.github.io/rlvs2021/class-material/regularized_mdp/Regularization_RL_RLVS.pdf)
-  * [CS 6789: Foundations of Reinforcement Learning](https://wensun.github.io/CS6789.html)
-  * [RL Book Theory](https://rltheorybook.github.io/)
-  * [Reinforcement Learning: an introduction](http://incompleteideas.net/book/the-book.html)
-  * [Bandit algorithms](https://tor-lattimore.com/downloads/book/book.pdf)
-  
-## Bandit algorithms
+
+<a name="bandit-algorithms"></a>
+## 8. Bandit algorithms
 * ### Papers
   * [2023, Quantile Bandits for Best Arms Identification](https://arxiv.org/pdf/2010.11568.pdf)
   * [2020, Neural Contextual Bandits with Deep Representation
@@ -150,13 +169,9 @@ and Shallow Exploration](https://arxiv.org/pdf/2012.01780.pdf)
   * [2002, Using Confidence Bounds for Exploitation-Exploration Trade-offs](https://www.jmlr.org/papers/volume3/auer02a/auer02a.pdf)
   * [2002, THE NONSTOCHASTIC MULTIARMED BANDIT PROBLEM∗](http://rob.schapire.net/papers/AuerCeFrSc01.pdf)
 
-## Lecture notes and slides
-  * [2021, Lecture Notes for Statistics 311/Electrical Engineering 377](https://web.stanford.edu/class/stats311/lecture-notes.pdf)
-  * [2015, Rademacher complexities and VC Dimension](http://www.cs.cmu.edu/~hanxiaol/slides/rademacher_vc_hanxiaol.pdf)
-  * [2013, An introduction to stochastic approximation](http://rcombes.supelec.free.fr/pdf/lecture_stoch_approx.pdf)
-  * [2006, System identification and the limits of learning from data](https://marco-campi.unibs.it/pdf-pszip/sys-id-and-limits-learning.pdf)
-
-## Min-max optimization
+<a name="optimization"></a>
+## 9. Optimization
+### Min-max optimization
   * [2021, A mean-field analysis of two-player zero-sum games](https://arxiv.org/pdf/2002.06277.pdf)
   * [2021, The Limits of Min-Max Optimization Algorithms: Convergence to Spurious Non-Critical Sets](http://proceedings.mlr.press/v139/hsieh21a/hsieh21a-supp.pdf)
   * [2020, On the Convergence of Single-Call Stochastic Extra-Gradient Methods](https://arxiv.org/pdf/1908.08465.pdf)
@@ -164,8 +179,9 @@ and Shallow Exploration](https://arxiv.org/pdf/2012.01780.pdf)
   * [2020, On Gradient Descent Ascent for Nonconvex-Concave Minimax Problems](http://proceedings.mlr.press/v119/lin20a/lin20a.pdf)
   * [2020, Robust Reinforcement Learning via Adversarial training with Langevin Dynamics](https://arxiv.org/pdf/2002.06063.pdf)
   * [2018, Finding Mixed Nash Equilibria of Generative Adversarial Networks](https://arxiv.org/pdf/1811.02002.pdf)
-
-## Statistics
+  
+<a name="statistics"></a>
+## 10. Statistics
   * [2022, A short note on an inequality between KL and TV](https://arxiv.org/pdf/2202.07198.pdf)
   * [2020, A Tutorial on Quantile Estimation via Monte Carlo](https://web.njit.edu/~marvin/papers/qtut-r2.pdf)
   * [2012, CONCENTRATION INEQUALITIES FOR ORDER STATISTICS](https://arxiv.org/pdf/1207.7209.pdf)
@@ -173,8 +189,34 @@ and Shallow Exploration](https://arxiv.org/pdf/2012.01780.pdf)
   * [1987, Better Bootstrap Confidence Intervals](https://www.jstor.org/stable/2289144)
   * [1982, SOME METHODS FOR TESTING THE HOMOGENEITY OF RAINFALL RECORDS](https://www.sciencedirect.com/science/article/pii/002216948290066X)
 
+<a name="books"></a>
+## 11. Lecture notes, books and courses
+  * [Regularization in RL, Google, 2021](https://rl-vs.github.io/rlvs2021/class-material/regularized_mdp/Regularization_RL_RLVS.pdf)
+  * [CS 6789: Foundations of Reinforcement Learning](https://wensun.github.io/CS6789.html)
+  * [RL Book Theory](https://rltheorybook.github.io/)
+  * [Reinforcement Learning: an introduction](http://incompleteideas.net/book/the-book.html)
+  * [Bandit algorithms](https://tor-lattimore.com/downloads/book/book.pdf)
+  * [2021, Lecture Notes for Statistics 311/Electrical Engineering 377](https://web.stanford.edu/class/stats311/lecture-notes.pdf)
+  * [2015, Rademacher complexities and VC Dimension](http://www.cs.cmu.edu/~hanxiaol/slides/rademacher_vc_hanxiaol.pdf)
+  * [2013, An introduction to stochastic approximation](http://rcombes.supelec.free.fr/pdf/lecture_stoch_approx.pdf)
+  * [2006, System identification and the limits of learning from data](https://marco-campi.unibs.it/pdf-pszip/sys-id-and-limits-learning.pdf)
+  * [Deep Learning, Goodfellow et al., 2016](https://www.deeplearningbook.org)
+  * [The Elements of Statistical Learning, Hastie, Tibshirani, and Friedman, 2009](https://web.stanford.edu/~hastie/ElemStatLearn)
+  * [Machine Learning: a Probabilistic Perspective, Murphy, 2012](https://www.cs.ubc.ca/~murphyk/MLbook/)
+  * [Probability Theory: The Logic of Science, E. T. Jaynes, 2003](https://www.amazon.com/Probability-Theory-Science-T-Jaynes/dp/0521592712)
+  * [CS285 at UC Berkeley, Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
+  * [CS234 at Stanford University, Reinforcement Learning](http://web.stanford.edu/class/cs234/index.html)
+  * [15.097 at MIT, Prediction: Machine Learning and Statistics](http://ocw.mit.edu/courses/sloan-school-of-management/15-097-prediction-machine-learning-and-statistics-spring-2012/)
 
-## Schools
+
+<a name="blogs"></a>
+## 12. Blogs
+  * [Deep Reinforcement Learning Doesn't Work Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html)
+  * [Distill's publication on Feature Visualization](https://distill.pub/2017/feature-visualization/)
+  * [Lil'Log, Blog on machine learning](https://lilianweng.github.io/lil-log/)
+
+<a name="schools"></a>
+## 13. Schools
 * https://www.math.unipd.it/~vargiolu/home/link.html
 * [School of mathematics](http://www.smi-math.unipr.it/perugia-2021/15/)
 * [Machine learning schools](https://github.com/sshkhr/awesome-mlss)
