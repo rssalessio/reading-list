@@ -16,9 +16,11 @@ This is a NOT up-to-date collection of interesting papers that I have read so fa
 * [1998, LeCun, Efficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
 
 ## Conformal prediction
+* [2022, Conformal Prediction: a Unified Reviewof Theory and New Challenges](https://arxiv.org/pdf/2005.07972.pdf)
 * [2022, Conformal Off-Policy Prediction in Contextual Bandits](https://arxiv.org/pdf/2206.04405.pdf)
 * [2020, Conformal Prediction Under Covariate Shift](https://arxiv.org/pdf/1904.06019.pdf)
 * [2019, Conformalized Quantile Regression](https://proceedings.neurips.cc/paper/2019/file/5103c3584b063c431bd1268e9b5e76fb-Paper.pdf)
+* [2005, Algorithmic Learning in a Random World](https://link.springer.com/book/10.1007/b106715)
 
 ## Differential geometry in deep learning
 * [2020, Neural Ordinary Differential Equations on Manifolds](https://arxiv.org/pdf/2006.06663.pdf)
@@ -48,9 +50,7 @@ reduction using kernel t-SNE](https://core.ac.uk/download/pdf/20074835.pdf)
 * ### Algorithms
   * [List of algorithms](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html)
   * [DQN Pop art](https://arxiv.org/pdf/1602.07714.pdf)
-  * [2018, Soft Actor-Critic:
-Off-Policy Maximum Entropy Deep Reinforcement
-Learning with a Stochastic Actor](https://arxiv.org/pdf/1801.01290.pdf)
+  * [2018, Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://arxiv.org/pdf/1801.01290.pdf)
   * [2017, Reinforcement Learning with Deep Energy-Based Policies](https://arxiv.org/pdf/1702.08165.pdf)
 * ### DQN Convergence
   * [2020, A theoretic analysis of DQN](https://arxiv.org/pdf/1901.00137.pdf)
@@ -74,6 +74,11 @@ Approximation](http://proceedings.mlr.press/v119/xu20c/xu20c.pdf)
   * [2019, Learning latent dynamics from pixels](https://arxiv.org/pdf/1811.04551.pdf)
 * ### Goal conditioned RL
   * [2021, Adversarial Intrinsic Motivation for Reinforcement learning](https://openreview.net/pdf?id=GYr3qnFKgU)
+* ### Distributional RL
+  * [2021, GMAC: A Distributional Perspective on Actor-Critic Framework](https://arxiv.org/pdf/2105.11366.pdf)
+  * [2020, SAMPLE-BASED DISTRIBUTIONAL POLICY GRADIENT](https://arxiv.org/pdf/2001.02652.pdf)
+  * [2019, Statistics and Samples in Distributional Reinforcement Learning](https://arxiv.org/pdf/1902.08102.pdf)
+  * [2018, DISTRIBUTED DISTRIBUTIONAL DETERMINISTIC POLICY GRADIENTS](https://arxiv.org/pdf/1804.08617.pdf)
 
 ## Reinforcement Learning
 * ### Papers
@@ -93,6 +98,7 @@ Learning: Optimism in the Face of Large State
 Spaces](https://proceedings.neurips.cc//paper/2020/file/9fa04f87c9138de23e92582b4ce549ec-Paper.pdf)
   * [2016, Learning the Variance of the Reward-To-Go](https://jmlr.org/papers/volume17/14-335/14-335.pdf)
   * [2009, An Analysis of Reinforcement Learning with Function Approximation](http://icml2008.cs.helsinki.fi/papers/652.pdf)
+  * [2008, An analysis of model-based Interval Estimation for Markov Decision Processes](https://www.sciencedirect.com/science/article/pii/S0022000008000767)
   * [2006, PAC Model-Free Reinforcement Learning](https://cseweb.ucsd.edu/~ewiewior/06efficient.pdf)
   * [2004, Bias and Variance in Value Function Estimation](https://icml.cc/Conferences/2004/proceedings/papers/248.pdf)
   * [2001, Convergence of Optimistic and Incremental Q-Learning](https://proceedings.neurips.cc/paper/2001/file/6f2688a5fce7d48c8d19762b88c32c3b-Paper.pdf)
@@ -101,10 +107,19 @@ Spaces](https://proceedings.neurips.cc//paper/2020/file/9fa04f87c9138de23e92582b
   * [1993, Convergence of Stochastic Iterative Dynamic Programming Algorithms](https://proceedings.neurips.cc/paper/1993/file/5807a685d1a9ab3b599035bc566ce2b9-Paper.pdf)
   * [1992, Reinforcement learning applied to linear quadratic regulation](https://papers.nips.cc/paper/1992/file/19bc916108fc6938f52cb96f7e087941-Paper.pdf)
   * [1982,The Variance of Discounted Markov Decision Processes](https://www.jstor.org/stable/3213832)
-* ### Constrained RL
+* ### Constrained/Safe RL
+  * [2022, Safety-constrained reinforcement learning with a distributional safety critic](https://link.springer.com/article/10.1007/s10994-022-06187-8)
+  * [2022,Constrained Variational Policy Optimization for Safe Reinforcement Learning](https://arxiv.org/pdf/2201.11927.pdf)
+  * [2022, TRC: Trust Region Conditional Value at Risk for Safe Reinforcement Learning](https://ieeexplore.ieee.org/document/9677982)
+  * [2022, Towards Safe Reinforcement Learning via Constraining Conditional Value-at-Risk](https://arxiv.org/pdf/2206.04436.pdf)
+  * [2022, SAAC: Safe Reinforcement Learning as an Adversarial Game of Actor-Critics](https://arxiv.org/pdf/2204.09424.pdf)
+  * [2019, Benchmarking Safe Exploration in Deep Reinforcement Learning](https://cdn.openai.com/safexp-short.pdf)
   * [2017, Constrained Policy Optimization](https://arxiv.org/pdf/1705.10528.pdf)
   * [2017, Risk-Constrained Reinforcement Learning with Percentile Risk Criteria](https://arxiv.org/pdf/1512.01629.pdf)
-  * [2008, An analysis of model-based Interval Estimation for Markov Decision Processes](https://www.sciencedirect.com/science/article/pii/S0022000008000767)
+  * [2015, Variance-Constrained Actor-Critic Algorithms for Discounted and Average Reward MDPs](https://arxiv.org/pdf/1403.6530.pdf)
+  * [2015, A Comprehensive Survey on Safe Reinforcement Learning](https://www.jmlr.org/papers/volume16/garcia15a/garcia15a.pdf)
+  * [2015, Risk-Sensitive and Robust Decision-Making: a CVaR Optimization Approach](https://arxiv.org/pdf/1506.02188.pdf)
+
 * ### Off policy evaluation
   * [2022, A Review of Off-Policy Evaluation in Reinforcement Learning](https://arxiv.org/pdf/2212.06355.pdf)
   * [2022, Conformal Off-Policy Prediction in Contextual Bandits](https://arxiv.org/pdf/2206.04405.pdf)
@@ -119,14 +134,24 @@ Spaces](https://proceedings.neurips.cc//paper/2020/file/9fa04f87c9138de23e92582b
   * [CS 6789: Foundations of Reinforcement Learning](https://wensun.github.io/CS6789.html)
   * [RL Book Theory](https://rltheorybook.github.io/)
   * [Reinforcement Learning: an introduction](http://incompleteideas.net/book/the-book.html)
+  * [Bandit algorithms](https://tor-lattimore.com/downloads/book/book.pdf)
+  
 ## Bandit algorithms
 * ### Papers
   * [2023, Quantile Bandits for Best Arms Identification](https://arxiv.org/pdf/2010.11568.pdf)
   * [2020, Neural Contextual Bandits with Deep Representation
 and Shallow Exploration](https://arxiv.org/pdf/2012.01780.pdf)
   * [2020, Neural Contextual Bandits with UCB-based Exploration](https://arxiv.org/pdf/1911.04462.pdf)
+  * [2016, Optimal Best Arm Identification with Fixed Confidence](https://arxiv.org/pdf/1602.04589.pdf)
+  * [2016, On the Complexity of Best-Arm Identification in Multi-Armed Bandit Models](https://arxiv.org/pdf/1407.4443.pdf)
+  * [2016, Explore First, Exploit Next: The True Shape of Regret in Bandit Problems](https://arxiv.org/abs/1602.07182)
+  * [2011, Online Least Squares Estimation with Self-Normalized Processes: An Application to Bandit Problems](https://arxiv.org/pdf/1102.2670.pdf)
+  * [2002, Finite-time Analysis of the Multiarmed Bandit Problem](https://homes.di.unimi.it/~cesabian/Pubblicazioni/ml-02.pdf)
+  * [2002, Using Confidence Bounds for Exploitation-Exploration Trade-offs](https://www.jmlr.org/papers/volume3/auer02a/auer02a.pdf)
+  * [2002, THE NONSTOCHASTIC MULTIARMED BANDIT PROBLEM∗](http://rob.schapire.net/papers/AuerCeFrSc01.pdf)
 
 ## Lecture notes and slides
+  * [2021, Lecture Notes for Statistics 311/Electrical Engineering 377](https://web.stanford.edu/class/stats311/lecture-notes.pdf)
   * [2015, Rademacher complexities and VC Dimension](http://www.cs.cmu.edu/~hanxiaol/slides/rademacher_vc_hanxiaol.pdf)
   * [2013, An introduction to stochastic approximation](http://rcombes.supelec.free.fr/pdf/lecture_stoch_approx.pdf)
   * [2006, System identification and the limits of learning from data](https://marco-campi.unibs.it/pdf-pszip/sys-id-and-limits-learning.pdf)
@@ -141,10 +166,12 @@ and Shallow Exploration](https://arxiv.org/pdf/2012.01780.pdf)
   * [2018, Finding Mixed Nash Equilibria of Generative Adversarial Networks](https://arxiv.org/pdf/1811.02002.pdf)
 
 ## Statistics
+  * [2022, A short note on an inequality between KL and TV](https://arxiv.org/pdf/2202.07198.pdf)
   * [2020, A Tutorial on Quantile Estimation via Monte Carlo](https://web.njit.edu/~marvin/papers/qtut-r2.pdf)
   * [2012, CONCENTRATION INEQUALITIES FOR ORDER STATISTICS](https://arxiv.org/pdf/1207.7209.pdf)
   * [1996, IMPORTANCE SAMPLING FOR MONTE CARLO ESTIMATION OF QUANTILES](https://web.stanford.edu/~glynn/papers/1996/G96.pdf)
   * [1987, Better Bootstrap Confidence Intervals](https://www.jstor.org/stable/2289144)
+  * [1982, SOME METHODS FOR TESTING THE HOMOGENEITY OF RAINFALL RECORDS](https://www.sciencedirect.com/science/article/pii/002216948290066X)
 
 
 ## Schools
