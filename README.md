@@ -192,7 +192,7 @@ and Shallow Exploration](https://arxiv.org/pdf/2012.01780.pdf)
 
 <a name="probability-modeling-inference"></a>
 ## 11. Probability modeling and inference
-  * [Normalizing Flows for Probabilistic Modeling and Inference](https://jmlr.org/papers/volume22/19-1028/19-1028.pdf)
+  * [2021, Normalizing Flows for Probabilistic Modeling and Inference](https://jmlr.org/papers/volume22/19-1028/19-1028.pdf)
 
 <a name="books"></a>
 ## 12. Lecture notes, books and courses
