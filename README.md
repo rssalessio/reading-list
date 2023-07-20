@@ -14,9 +14,10 @@ This is a collection of interesting papers that I have read so far or want to re
 8. [Bandit algorithms](#bandit-algorithms)
 9. [Optimization](#optimization)
 10. [Statistics](#statistics)
-11. [Books, courses and lecture notes](#books)
-12. [Blogs and tutorial](#blogs)
-13. [Schools](#schools)
+11. [Probability modeling and inference](#probability-modeling-inference)
+12. [Books, courses and lecture notes](#books)
+13. [Blogs and tutorial](#blogs)
+14. [Schools](#schools)
 
 
 <a name="general-deep-learning"></a>
@@ -189,8 +190,12 @@ and Shallow Exploration](https://arxiv.org/pdf/2012.01780.pdf)
   * [1987, Better Bootstrap Confidence Intervals](https://www.jstor.org/stable/2289144)
   * [1982, SOME METHODS FOR TESTING THE HOMOGENEITY OF RAINFALL RECORDS](https://www.sciencedirect.com/science/article/pii/002216948290066X)
 
+<a name="probability-modeling-inference"></a>
+## 11. Probability modeling and inference
+  * [Normalizing Flows for Probabilistic Modeling and Inference](https://jmlr.org/papers/volume22/19-1028/19-1028.pdf)
+
 <a name="books"></a>
-## 11. Lecture notes, books and courses
+## 12. Lecture notes, books and courses
   * [Regularization in RL, Google, 2021](https://rl-vs.github.io/rlvs2021/class-material/regularized_mdp/Regularization_RL_RLVS.pdf)
   * [CS 6789: Foundations of Reinforcement Learning](https://wensun.github.io/CS6789.html)
   * [RL Book Theory](https://rltheorybook.github.io/)
@@ -210,13 +215,13 @@ and Shallow Exploration](https://arxiv.org/pdf/2012.01780.pdf)
 
 
 <a name="blogs"></a>
-## 12. Blogs
+## 13. Blogs
   * [Deep Reinforcement Learning Doesn't Work Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html)
   * [Distill's publication on Feature Visualization](https://distill.pub/2017/feature-visualization/)
   * [Lil'Log, Blog on machine learning](https://lilianweng.github.io/lil-log/)
 
 <a name="schools"></a>
-## 13. Schools
+## 14. Schools
 * https://www.math.unipd.it/~vargiolu/home/link.html
 * [School of mathematics](http://www.smi-math.unipr.it/perugia-2021/15/)
 * [Machine learning schools](https://github.com/sshkhr/awesome-mlss)
