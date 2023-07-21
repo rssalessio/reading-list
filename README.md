@@ -192,14 +192,19 @@ and Shallow Exploration](https://arxiv.org/pdf/2012.01780.pdf)
 
 <a name="probability-modeling-inference"></a>
 ## 11. Probability modeling and inference
+  * [2023, SEMI-IMPLICIT VARIATIONAL INFERENCE VIA SCORE MATCHING](https://openreview.net/pdf?id=sd90a2ytrt)
   * [2021, Normalizing Flows for Probabilistic Modeling and Inference](https://jmlr.org/papers/volume22/19-1028/19-1028.pdf)
+  * [2019, Variational approximations using Fisher divergence](https://arxiv.org/pdf/1905.05284.pdf)
+  * [2018, Semi-Implicit Variational Inference](https://arxiv.org/pdf/1805.11183.pdf)
   * [2018, Variational Inference: A Review for Statisticians](https://arxiv.org/abs/1601.00670)
+  * [2017, Variational Hamiltonian Monte Carlo via Score Matching](https://arxiv.org/pdf/1602.02219.pdf)
   * [2013, Stochastic Variational Inference](https://jmlr.org/papers/volume14/hoffman13a/hoffman13a.pdf)
   * [2013, Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf)
+  * [2005, Estimation of Non-Normalized Statistical Models by Score Matching](https://jmlr.org/papers/volume6/hyvarinen05a/hyvarinen05a.pdf)
 
 <a name="books"></a>
 ## 12. Lecture notes, books and courses
-  * [Regularization in RL, Google, 2021](https://rl-vs.github.io/rlvs2021/class-material/regularized_mdp/Regularization_RL_RLVS.pdf)
+  * [2021, Regularization in RL, Google](https://rl-vs.github.io/rlvs2021/class-material/regularized_mdp/Regularization_RL_RLVS.pdf)
   * [CS 6789: Foundations of Reinforcement Learning](https://wensun.github.io/CS6789.html)
   * [RL Book Theory](https://rltheorybook.github.io/)
   * [Reinforcement Learning: an introduction](http://incompleteideas.net/book/the-book.html)
@@ -215,6 +220,7 @@ and Shallow Exploration](https://arxiv.org/pdf/2012.01780.pdf)
   * [CS285 at UC Berkeley, Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
   * [CS234 at Stanford University, Reinforcement Learning](http://web.stanford.edu/class/cs234/index.html)
   * [15.097 at MIT, Prediction: Machine Learning and Statistics](http://ocw.mit.edu/courses/sloan-school-of-management/15-097-prediction-machine-learning-and-statistics-spring-2012/)
+  * [2008, Graphical Models, Exponential Families, and Variational Inference, Wainwright and Jordan](https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf)
 
 
 <a name="blogs"></a>
