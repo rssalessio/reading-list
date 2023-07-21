@@ -195,6 +195,7 @@ and Shallow Exploration](https://arxiv.org/pdf/2012.01780.pdf)
   * [2021, Normalizing Flows for Probabilistic Modeling and Inference](https://jmlr.org/papers/volume22/19-1028/19-1028.pdf)
   * [2018, Variational Inference: A Review for Statisticians](https://arxiv.org/abs/1601.00670)
   * [2013, Stochastic Variational Inference](https://jmlr.org/papers/volume14/hoffman13a/hoffman13a.pdf)
+  * [2013, Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf)
 
 <a name="books"></a>
 ## 12. Lecture notes, books and courses
