@@ -22,6 +22,7 @@ This is a collection of interesting papers that I have read so far or want to re
 
 <a name="general-deep-learning"></a>
 ## 1. General deep learning
+* [2022, Regularising Inverse Problems with Generative Machine Learning Models](https://www.ndfcampbell.org/assets/papers/reg_inv_problems.pdf)
 * [2021, Distilling Robust and Non-Robust Features in Adversarial Examples by Information Bottleneck](https://openreview.net/pdf?id=90M-91IZ0JC)
 * [2021, Slot Machines: Discovering Winning Combinations of Random Weights in Neural Networks](https://arxiv.org/pdf/2101.06475.pdf)
 * [2021, Loss landscapes and optimization in over-parameterized non-linear systems and neural networks](https://arxiv.org/pdf/2003.00307.pdf)
@@ -194,6 +195,7 @@ and Shallow Exploration](https://arxiv.org/pdf/2012.01780.pdf)
 ## 11. Probability modeling and inference
   * [2023, SEMI-IMPLICIT VARIATIONAL INFERENCE VIA SCORE MATCHING](https://openreview.net/pdf?id=sd90a2ytrt)
   * [2021, Normalizing Flows for Probabilistic Modeling and Inference](https://jmlr.org/papers/volume22/19-1028/19-1028.pdf)
+  * [2020, Improved Techniques for Training Score-Based Generative Models](https://arxiv.org/pdf/2006.09011.pdf)
   * [2019, Variational approximations using Fisher divergence](https://arxiv.org/pdf/1905.05284.pdf)
   * [2018, Semi-Implicit Variational Inference](https://arxiv.org/pdf/1805.11183.pdf)
   * [2018, Variational Inference: A Review for Statisticians](https://arxiv.org/abs/1601.00670)
