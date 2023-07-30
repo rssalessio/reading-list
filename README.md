@@ -22,6 +22,7 @@ This is a collection of interesting papers that I have read so far or want to re
 
 <a name="general-deep-learning"></a>
 ## 1. General deep learning
+* [2023, Your diffusion model secretly knows the dimension of the data manifold](https://arxiv.org/pdf/2212.12611.pdf)
 * [2022, Regularising Inverse Problems with Generative Machine Learning Models](https://www.ndfcampbell.org/assets/papers/reg_inv_problems.pdf)
 * [2021, Distilling Robust and Non-Robust Features in Adversarial Examples by Information Bottleneck](https://openreview.net/pdf?id=90M-91IZ0JC)
 * [2021, Slot Machines: Discovering Winning Combinations of Random Weights in Neural Networks](https://arxiv.org/pdf/2101.06475.pdf)
