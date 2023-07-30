@@ -24,6 +24,7 @@ This is a collection of interesting papers that I have read so far or want to re
 ## 1. General deep learning
 * [2023, Your diffusion model secretly knows the dimension of the data manifold](https://arxiv.org/pdf/2212.12611.pdf)
 * [2022, Regularising Inverse Problems with Generative Machine Learning Models](https://www.ndfcampbell.org/assets/papers/reg_inv_problems.pdf)
+* [2021, SCORE-BASED GENERATIVE MODELING THROUGH STOCHASTIC DIFFERENTIAL EQUATIONS](https://arxiv.org/pdf/2011.13456.pdf)
 * [2021, Distilling Robust and Non-Robust Features in Adversarial Examples by Information Bottleneck](https://openreview.net/pdf?id=90M-91IZ0JC)
 * [2021, Slot Machines: Discovering Winning Combinations of Random Weights in Neural Networks](https://arxiv.org/pdf/2101.06475.pdf)
 * [2021, Loss landscapes and optimization in over-parameterized non-linear systems and neural networks](https://arxiv.org/pdf/2003.00307.pdf)
@@ -193,7 +194,7 @@ and Shallow Exploration](https://arxiv.org/pdf/2012.01780.pdf)
   * [1982, SOME METHODS FOR TESTING THE HOMOGENEITY OF RAINFALL RECORDS](https://www.sciencedirect.com/science/article/pii/002216948290066X)
 
 <a name="probability-modeling-inference"></a>
-## 11. Probability modeling and inference
+## 11. Probability modeling, inference
   * [2023, SEMI-IMPLICIT VARIATIONAL INFERENCE VIA SCORE MATCHING](https://openreview.net/pdf?id=sd90a2ytrt)
   * [2021, Normalizing Flows for Probabilistic Modeling and Inference](https://jmlr.org/papers/volume22/19-1028/19-1028.pdf)
   * [2020, Improved Techniques for Training Score-Based Generative Models](https://arxiv.org/pdf/2006.09011.pdf)
