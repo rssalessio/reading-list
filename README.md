@@ -110,6 +110,7 @@ Approximation](http://proceedings.mlr.press/v119/xu20c/xu20c.pdf)
 <a name="reinforcement-learning"></a>
 ## 7. Reinforcement Learning
 * ### Papers
+  * [2023, Empirical Design in Reinforcement Learning](https://arxiv.org/pdf/2304.01315.pdf)
   * [2023, An Analysis of Quantile Temporal-Difference Learning](https://arxiv.org/pdf/2301.04462.pdf)
   * [2022, Understanding Policy Gradient Algorithms: A Sensitivity-Based Approach](https://proceedings.mlr.press/v162/wu22i/wu22i.pdf)
   * [2021, Sample Complexity of Asynchronous Q-Learning: Sharper Analysis and Variance Reduction](https://arxiv.org/pdf/2006.03041.pdf)
