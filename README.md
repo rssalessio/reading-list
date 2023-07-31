@@ -118,8 +118,8 @@ Approximation](http://proceedings.mlr.press/v119/xu20c/xu20c.pdf)
   * [2020, Provably Efficient Exploration for Reinforcement Learning Using Unsupervised Learning](https://arxiv.org/pdf/2003.06898.pdf)
   * [2019, Revisiting the Softmax Bellman Operator: New Benefits and New Perspective](https://arxiv.org/pdf/1812.00456.pdf)
   * [2019, Q-learning with UCB Exploration is Sample Efficient for Infinite-Horizon MDP](https://arxiv.org/pdf/1901.09311.pdf)
-  * [2019, Provably Efficient Reinforcement Learning with Linear
-Function Approximation](https://arxiv.org/pdf/1907.05388.pdf)
+  * [2019, Provably Efficient Reinforcement Learning with Linear Function Approximation](https://arxiv.org/pdf/1907.05388.pdf)
+  * [2018, Deep Reinforcement Learning that Matters](https://ojs.aaai.org/index.php/AAAI/article/download/11694/11553)
   * [2018, Is Q-learning Provably Efficient?](https://arxiv.org/pdf/1807.03765.pdf)
   * [Adaptive sampling for policy identification](https://arxiv.org/pdf/2009.13405.pdf)
   * [On Function Approximation in Reinforcement
