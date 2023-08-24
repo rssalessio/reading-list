@@ -126,6 +126,7 @@ Approximation](http://proceedings.mlr.press/v119/xu20c/xu20c.pdf)
 Learning: Optimism in the Face of Large State
 Spaces](https://proceedings.neurips.cc//paper/2020/file/9fa04f87c9138de23e92582b4ce549ec-Paper.pdf)
   * [2016, Learning the Variance of the Reward-To-Go](https://jmlr.org/papers/volume17/14-335/14-335.pdf)
+  * [2012, Policy Gradients with Variance Related Risk Criteria](https://arxiv.org/pdf/1206.6404.pdf)
   * [2009, An Analysis of Reinforcement Learning with Function Approximation](http://icml2008.cs.helsinki.fi/papers/652.pdf)
   * [2008, An analysis of model-based Interval Estimation for Markov Decision Processes](https://www.sciencedirect.com/science/article/pii/S0022000008000767)
   * [2006, PAC Model-Free Reinforcement Learning](https://cseweb.ucsd.edu/~ewiewior/06efficient.pdf)
