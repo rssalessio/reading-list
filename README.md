@@ -137,6 +137,10 @@ Spaces](https://proceedings.neurips.cc//paper/2020/file/9fa04f87c9138de23e92582b
   * [1993, Convergence of Stochastic Iterative Dynamic Programming Algorithms](https://proceedings.neurips.cc/paper/1993/file/5807a685d1a9ab3b599035bc566ce2b9-Paper.pdf)
   * [1992, Reinforcement learning applied to linear quadratic regulation](https://papers.nips.cc/paper/1992/file/19bc916108fc6938f52cb96f7e087941-Paper.pdf)
   * [1982,The Variance of Discounted Markov Decision Processes](https://www.jstor.org/stable/3213832)
+* ### Zero shot RL
+  * [2023, Does Zero-Shot Reinforcement Learning Exist?](https://arxiv.org/pdf/2209.14935.pdf)
+  * [2021, Learning One Representation to Optimize All Rewards](https://arxiv.org/pdf/2103.07945.pdf)
+  * [2017, Zero-Shot Task Generalization with Multi-Task Deep Reinforcement Learning](http://proceedings.mlr.press/v70/oh17a/oh17a.pdf)
 * ### Constrained/Safe RL
   * [2022, Safety-constrained reinforcement learning with a distributional safety critic](https://link.springer.com/article/10.1007/s10994-022-06187-8)
   * [2022,Constrained Variational Policy Optimization for Safe Reinforcement Learning](https://arxiv.org/pdf/2201.11927.pdf)
