@@ -15,9 +15,10 @@ This is a collection of interesting papers (and books) that I have read so far o
 10. [Statistics](#statistics)
 11. [Probability Modeling & Inference](#probability-modeling--inference)
 12. [Uncertainty Estimation](#uncertainty-estimation)
-13. [Lecture Notes, Books and Courses](#lecture-notes-books-and-courses)
-14. [Blogs](#blogs)
-15. [Schools](#schools)
+13. [Statistical Learning](#statistical-learning)
+14. [Lecture Notes, Books and Courses](#lecture-notes-books-and-courses)
+15. [Blogs](#blogs)
+16. [Schools](#schools)
 
 ---
 
@@ -256,6 +257,8 @@ This is a collection of interesting papers (and books) that I have read so far o
 - **2025**: [Deep Out-of-Distribution Uncertainty Quantification via Weight Entropy Maximization](https://jmlr.org/papers/volume26/23-1359/23-1359.pdf)
 - **2023**: [Epistemic Neural Networks](https://arxiv.org/pdf/2107.08924)
 - **2022**: [Ensembles for Uncertainty Estimation: Benefits of Prior Functions and Bootstrapping](https://arxiv.org/pdf/2206.03633)
+
+---
 
 <a name="statistical-learning"></a>
 
