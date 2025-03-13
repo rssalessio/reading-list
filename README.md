@@ -99,6 +99,7 @@ This is a collection of interesting papers (and books) that I have read so far o
 - **2022**: [Exploring through Random Curiosity with General Value Functions](https://arxiv.org/pdf/2211.10282.pdf)
 - **2020**: [Planning go explore via self-supervised world models](https://arxiv.org/pdf/2005.05960.pdf)
 - **2020**: [Hypermodels for Exploration](https://arxiv.org/pdf/2006.07464.pdf)
+- **2018**: [DORA The Explorer: Directed Outreaching Reinforcement Action-Selection](https://arxiv.org/abs/1804.04012)
 - **2017**: [#Exploration: A Study of Count-Based Exploration for Deep Reinforcement](https://arxiv.org/pdf/1611.04717.pdf)
 - **2016**: [Unifying Count-Based Exploration and Intrinsic Motivation](https://arxiv.org/pdf/1606.01868.pdf)
 
@@ -135,6 +136,7 @@ This is a collection of interesting papers (and books) that I have read so far o
 - **2021**: [Sample Complexity of Asynchronous Q-Learning: Sharper Analysis and Variance Reduction](https://arxiv.org/pdf/2006.03041.pdf)
 - **2021**: [Adaptive Sampling for Best Policy Identification in MDPs](http://proceedings.mlr.press/v139/marjani21a/marjani21a.pdf)
 - **2021**: [Learning Successor States and Goal-Dependent Values: A Mathematical Viewpoint](https://arxiv.org/pdf/2101.07123)
+- **2020**: [Fast active learning for pure exploration in reinforcement learning](https://arxiv.org/abs/2007.13442)
 - **2020**: [Provably Efficient Exploration for Reinforcement Learning Using Unsupervised Learning](https://arxiv.org/pdf/2003.06898.pdf)
 - **2019**: [Revisiting the Softmax Bellman Operator: New Benefits and New Perspective](https://arxiv.org/pdf/1812.00456.pdf)
 - **2019**: [Q-learning with UCB Exploration is Sample Efficient for Infinite-Horizon MDP](https://arxiv.org/pdf/1901.09311.pdf)
@@ -212,6 +214,7 @@ This is a collection of interesting papers (and books) that I have read so far o
 - **2020**: [On Gradient Descent Ascent for Nonconvex-Concave Minimax Problems](http://proceedings.mlr.press/v119/lin20a/lin20a.pdf)
 - **2020**: [Robust Reinforcement Learning via Adversarial Training with Langevin Dynamics](https://arxiv.org/pdf/2002.06063.pdf)
 - **2018**: [Finding Mixed Nash Equilibria of Generative Adversarial Networks](https://arxiv.org/pdf/1811.02002.pdf)
+- **2009**: [Subgradient Methods for Saddle-Point Problems](https://link.springer.com/article/10.1007/s10957-009-9522-7)
 
 ---
 
