@@ -21,6 +21,7 @@ This is a collection of interesting papers (and books) that I have read so far o
 
 ---
 
+<a name="general-deep-learning"></a>
 ## 1. General Deep Learning
 - **2023**: [Your diffusion model secretly knows the dimension of the data manifold](https://arxiv.org/pdf/2212.12611.pdf)
 - **2022**: [Regularising Inverse Problems with Generative Machine Learning Models](https://www.ndfcampbell.org/assets/papers/reg_inv_problems.pdf)
@@ -38,6 +39,7 @@ This is a collection of interesting papers (and books) that I have read so far o
 
 ---
 
+<a name="conformal-prediction"></a>
 ## 2. Conformal Prediction
 - **2022**: [Conformal Prediction: a Unified Review of Theory and New Challenges](https://arxiv.org/pdf/2005.07972.pdf)
 - **2022**: [Conformal Off-Policy Prediction in Contextual Bandits](https://arxiv.org/pdf/2206.04405.pdf)
@@ -47,6 +49,7 @@ This is a collection of interesting papers (and books) that I have read so far o
 
 ---
 
+<a name="differential-geometry-in-deep-learning"></a>
 ## 3. Differential Geometry in Deep Learning
 - **2020**: [Neural Ordinary Differential Equations on Manifolds](https://arxiv.org/pdf/2006.06663.pdf)
 - **2019**: [Diffeomorphic Learning](https://arxiv.org/pdf/1806.01240.pdf)
@@ -56,6 +59,7 @@ This is a collection of interesting papers (and books) that I have read so far o
 
 ---
 
+<a name="dimensionality-reduction"></a>
 ## 4. Dimensionality Reduction
 - **2024**: [On Sparsity and Sub-Gaussianity in the Johnson-Lindenstrauss Lemma](https://arxiv.org/pdf/2409.06275)
 - **2020**: [Stochastic Neighbor Embedding with Gaussian and Student-t Distributions: Tutorial and Survey](https://arxiv.org/pdf/2009.10301.pdf)
@@ -64,6 +68,7 @@ This is a collection of interesting papers (and books) that I have read so far o
 
 ---
 
+<a name="thompson-sampling"></a>
 ## 5. Thompson Sampling
 - **2020**: [A Tutorial on Thompson Sampling](https://arxiv.org/pdf/1707.02038.pdf)
 - **2020**: [Neural Thompson Sampling](https://arxiv.org/pdf/2010.00827.pdf)
@@ -71,6 +76,7 @@ This is a collection of interesting papers (and books) that I have read so far o
 
 ---
 
+<a name="deep-reinforcement-learning"></a>
 ## 6. Deep Reinforcement Learning
 
 ### Famous Applications
@@ -93,7 +99,6 @@ This is a collection of interesting papers (and books) that I have read so far o
 - **2022**: [Exploring through Random Curiosity with General Value Functions](https://arxiv.org/pdf/2211.10282.pdf)
 - **2020**: [Planning go explore via self-supervised world models](https://arxiv.org/pdf/2005.05960.pdf)
 - **2020**: [Hypermodels for Exploration](https://arxiv.org/pdf/2006.07464.pdf)
-- **2018**: [DORA The Explorer: Directed Outreaching Reinforcement Action-Selection](https://arxiv.org/abs/1804.04012)
 - **2017**: [#Exploration: A Study of Count-Based Exploration for Deep Reinforcement](https://arxiv.org/pdf/1611.04717.pdf)
 - **2016**: [Unifying Count-Based Exploration and Intrinsic Motivation](https://arxiv.org/pdf/1606.01868.pdf)
 
@@ -118,6 +123,7 @@ This is a collection of interesting papers (and books) that I have read so far o
 
 ---
 
+<a name="reinforcement-learning"></a>
 ## 7. Reinforcement Learning
 
 ### General Papers
@@ -180,6 +186,7 @@ This is a collection of interesting papers (and books) that I have read so far o
 
 ---
 
+<a name="bandit-algorithms"></a>
 ## 8. Bandit Algorithms
 - **2023**: [Quantile Bandits for Best Arms Identification](https://arxiv.org/pdf/2010.11568.pdf)
 - **2020**: [Neural Contextual Bandits with Deep Representation and Shallow Exploration](https://arxiv.org/pdf/2012.01780.pdf)
@@ -194,6 +201,7 @@ This is a collection of interesting papers (and books) that I have read so far o
 
 ---
 
+<a name="optimization"></a>
 ## 9. Optimization
 
 ### Min-Max Optimization
@@ -204,10 +212,10 @@ This is a collection of interesting papers (and books) that I have read so far o
 - **2020**: [On Gradient Descent Ascent for Nonconvex-Concave Minimax Problems](http://proceedings.mlr.press/v119/lin20a/lin20a.pdf)
 - **2020**: [Robust Reinforcement Learning via Adversarial Training with Langevin Dynamics](https://arxiv.org/pdf/2002.06063.pdf)
 - **2018**: [Finding Mixed Nash Equilibria of Generative Adversarial Networks](https://arxiv.org/pdf/1811.02002.pdf)
-- **2009**: [Subgradient Methods for Saddle-Point Problems](https://link.springer.com/article/10.1007/s10957-009-9522-7)
 
 ---
 
+<a name="statistics"></a>
 ## 10. Statistics
 - **2024**: [Information Lower Bounds for Robust Mean Estimation](https://arxiv.org/pdf/2403.01892)
 - **2022**: [A Short Note on an Inequality between KL and TV](https://arxiv.org/pdf/2202.07198.pdf)
@@ -220,6 +228,7 @@ This is a collection of interesting papers (and books) that I have read so far o
 
 ---
 
+<a name="probability-modeling--inference"></a>
 ## 11. Probability Modeling & Inference
 - **2024**: [The Bayesian Learning Rule](https://arxiv.org/pdf/2107.04562)
 - **2023**: [Semi-Implicit Variational Inference via Score Matching](https://openreview.net/pdf?id=sd90a2ytrt)
@@ -235,6 +244,7 @@ This is a collection of interesting papers (and books) that I have read so far o
 
 ---
 
+<a name="uncertainty-estimation"></a>
 ## 12. Uncertainty Estimation
 - **2025**: [Deep Out-of-Distribution Uncertainty Quantification via Weight Entropy Maximization](https://jmlr.org/papers/volume26/23-1359/23-1359.pdf)
 - **2023**: [Epistemic Neural Networks](https://arxiv.org/pdf/2107.08924)
@@ -242,6 +252,7 @@ This is a collection of interesting papers (and books) that I have read so far o
 
 ---
 
+<a name="lecture-notes-books-and-courses"></a>
 ## 13. Lecture Notes, Books and Courses
 - **2024**: [Hypothesis Testing with E-values (Book)](https://www.stat.cmu.edu/~aramdas/ebook-v1.pdf)
 - **2021**: [Regularization in RL, Google](https://rl-vs.github.io/rlvs2021/class-material/regularized_mdp/Regularization_RL_RLVS.pdf)
@@ -264,6 +275,7 @@ This is a collection of interesting papers (and books) that I have read so far o
 
 ---
 
+<a name="blogs"></a>
 ## 14. Blogs
 - [Deep Reinforcement Learning Doesn't Work Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html)
 - [Distill's Publication on Feature Visualization](https://distill.pub/2017/feature-visualization/)
@@ -271,6 +283,7 @@ This is a collection of interesting papers (and books) that I have read so far o
 
 ---
 
+<a name="schools"></a>
 ## 15. Schools
 - [Math Unipd - Vargiolu](https://www.math.unipd.it/~vargiolu/home/link.html)
 - [School of Mathematics, UniPr](http://www.smi-math.unipr.it/perugia-2021/15/)
