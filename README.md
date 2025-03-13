@@ -132,6 +132,7 @@ This is a collection of interesting papers (and books) that I have read so far o
 - **2023**: [BACKSTEPPING TEMPORAL DIFFERENCE LEARNING](https://arxiv.org/pdf/2302.09875)
 - **2023**: [Empirical Design in Reinforcement Learning](https://arxiv.org/pdf/2304.01315.pdf)
 - **2023**: [An Analysis of Quantile Temporal-Difference Learning](https://arxiv.org/pdf/2301.04462.pdf)
+- **2022**: [Why Should I Trust You, Bellman? The Bellman Error is a Poor Replacement for Value Error](https://proceedings.mlr.press/v162/fujimoto22a/fujimoto22a.pdf)
 - **2022**: [Understanding Policy Gradient Algorithms: A Sensitivity-Based Approach](https://proceedings.mlr.press/v162/wu22i/wu22i.pdf)
 - **2021**: [Sample Complexity of Asynchronous Q-Learning: Sharper Analysis and Variance Reduction](https://arxiv.org/pdf/2006.03041.pdf)
 - **2021**: [Adaptive Sampling for Best Policy Identification in MDPs](http://proceedings.mlr.press/v139/marjani21a/marjani21a.pdf)
@@ -162,6 +163,9 @@ This is a collection of interesting papers (and books) that I have read so far o
 - **2023**: [Does Zero-Shot Reinforcement Learning Exist?](https://arxiv.org/pdf/2209.14935.pdf)
 - **2021**: [Learning One Representation to Optimize All Rewards](https://arxiv.org/pdf/2103.07945.pdf)
 - **2017**: [Zero-Shot Task Generalization with Multi-Task Deep Reinforcement Learning](http://proceedings.mlr.press/v70/oh17a/oh17a.pdf)
+
+### MDPs
+- **2021**: [Hoeffding’s Inequality for General Markov Chains and Its Applications to Statistical Learning](https://jmlr.org/papers/v22/19-479.html)
 
 ### Constrained / Safe RL
 - **2024**: [Correlated Proxies: A New Definition and Improved Mitigation for Reward Hacking](https://arxiv.org/pdf/2403.03185)
@@ -253,10 +257,16 @@ This is a collection of interesting papers (and books) that I have read so far o
 - **2023**: [Epistemic Neural Networks](https://arxiv.org/pdf/2107.08924)
 - **2022**: [Ensembles for Uncertainty Estimation: Benefits of Prior Functions and Bootstrapping](https://arxiv.org/pdf/2206.03633)
 
+<a name="statistical-learning"></a>
+
+## 13. Statistical Learning
+- **2025** [User-friendly Introduction to PAC-Bayes Bounds](https://arxiv.org/pdf/2110.11216)
+- **2009** [Agnostic Online Learning](https://www.cs.huji.ac.il/~shais/papers/BendavidPalShalevtech09.pdf)
+
 ---
 
 <a name="lecture-notes-books-and-courses"></a>
-## 13. Lecture Notes, Books and Courses
+## 14. Lecture Notes, Books and Courses
 - **2024**: [Hypothesis Testing with E-values (Book)](https://www.stat.cmu.edu/~aramdas/ebook-v1.pdf)
 - **2021**: [Regularization in RL, Google](https://rl-vs.github.io/rlvs2021/class-material/regularized_mdp/Regularization_RL_RLVS.pdf)
 - [CS 6789: Foundations of Reinforcement Learning](https://wensun.github.io/CS6789.html)
@@ -279,7 +289,7 @@ This is a collection of interesting papers (and books) that I have read so far o
 ---
 
 <a name="blogs"></a>
-## 14. Blogs
+## 15. Blogs
 - [Deep Reinforcement Learning Doesn't Work Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html)
 - [Distill's Publication on Feature Visualization](https://distill.pub/2017/feature-visualization/)
 - [Lil'Log: Blog on Machine Learning](https://lilianweng.github.io/lil-log/)
@@ -287,7 +297,7 @@ This is a collection of interesting papers (and books) that I have read so far o
 ---
 
 <a name="schools"></a>
-## 15. Schools
+## 16. Schools
 - [Math Unipd - Vargiolu](https://www.math.unipd.it/~vargiolu/home/link.html)
 - [School of Mathematics, UniPr](http://www.smi-math.unipr.it/perugia-2021/15/)
 - [Machine Learning Schools](https://github.com/sshkhr/awesome-mlss)
