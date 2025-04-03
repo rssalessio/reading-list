@@ -203,6 +203,8 @@ This is a collection of interesting papers (and books) that I have read so far o
 - **2016**: [Optimal Best Arm Identification with Fixed Confidence](https://arxiv.org/pdf/1602.04589.pdf)
 - **2016**: [Explore First, Exploit Next: The True Shape of Regret in Bandit Problems](https://arxiv.org/abs/1602.07182)
 - **2011**: [Online Least Squares Estimation with Self-Normalized Processes: An Application to Bandit Problems](https://arxiv.org/pdf/1102.2670.pdf)
+- **2011** [Pure exploration in finitely-armed and continuous-armed bandits](http://sbubeck.com/BMS--TCS09.pdf)
+- **2010** [Best Arm Identification in Multi-Armed Bandits](http://sbubeck.com/COLT10_ABM.pdf)
 - **2002**: [Finite-time Analysis of the Multiarmed Bandit Problem](https://homes.di.unimi.it/~cesabian/Pubblicazioni/ml-02.pdf)
 - **2002**: [Using Confidence Bounds for Exploitation-Exploration Trade-offs](https://www.jmlr.org/papers/volume3/auer02a/auer02a.pdf)
 - **2002**: [THE NONSTOCHASTIC MULTIARMED BANDIT PROBLEM∗](http://rob.schapire.net/papers/AuerCeFrSc01.pdf)
