@@ -198,6 +198,7 @@ This is a collection of interesting papers (and books) that I have read so far o
 - **2023**: [Quantile Bandits for Best Arms Identification](https://arxiv.org/pdf/2010.11568.pdf)
 - **2020**: [Neural Contextual Bandits with Deep Representation and Shallow Exploration](https://arxiv.org/pdf/2012.01780.pdf)
 - **2020**: [Neural Contextual Bandits with UCB-based Exploration](https://arxiv.org/pdf/1911.04462.pdf)
+- **2020** [Contributions to the Optimal Solution of Several Bandit Problems](https://emiliekaufmann.github.io/HDR_EmilieKaufmann.pdf)
 - **2016**: [Deep Bandits Show-Off: Simple and Efficient Exploration with Deep Networks](https://proceedings.neurips.cc/paper/2016/file/abd815286ba1007abfbb8415b83ae2cf-Paper.pdf)
 - **2016**: [Optimal Best Arm Identification with Fixed Confidence](https://arxiv.org/pdf/1602.04589.pdf)
 - **2016**: [Explore First, Exploit Next: The True Shape of Regret in Bandit Problems](https://arxiv.org/abs/1602.07182)
